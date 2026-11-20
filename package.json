@@ -1,0 +1,7 @@
+{
+  "name": "yatharth-jain-portfolio",
+  "version": "1.0.0",
+  "description": "Personal developer portfolio of Yatharth Jain",
+  "scripts": { "start": "node server.js" },
+  "private": true
+}
